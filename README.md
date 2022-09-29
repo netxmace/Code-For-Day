@@ -1,5 +1,5 @@
 # Word-For-Day
-An app providing daily code lessons.
+This flutter project focuses on building an app that gives daily vocabulary suggestions through notifications. We expect programming solutions, UI/UX designs and technical documentation.
 
 ## 🎃 NetX MACE HacktoberFest Track🎃 ##
 
