@@ -1,4 +1,4 @@
-# Code-For-Day
+# Word-For-Day
 An app providing daily code lessons.
 
 ## 🎃 NetX MACE HacktoberFest Track🎃 ##
