@@ -1,2 +1,2 @@
-# Code-For-Day
+# word-For-Day
 An app providing daily code lessons.
