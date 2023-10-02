@@ -29,4 +29,3 @@ Here are quick and painless ways to contribute to this project:
 8. Send a pull request and you are done with your first contribution
 
 *if you have any doubts do check our [site](https://hacktoberfest.macehub.in/) for assistance*
-
